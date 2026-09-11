@@ -33,4 +33,4 @@ I write about enterprise AI, architecture, workflows, technology leadership, and
 
 ---
 
-Building in public. Learning as I go.
+Building in public. Exploring what happens when we redesign.
