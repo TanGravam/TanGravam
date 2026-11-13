@@ -4,7 +4,7 @@
 
 Follow along and you get:
 
-- **One technique per post** you can use the same day, with the exact AI prompt.
+- **One technique per post** you can use the same day, and the exact AI system.
 - **Before and after examples** from real work: the update nobody read, rewritten so it gets read.
 - **Real numbers from building in public:** what I shipped, what I cut, what failed.
 - **No hype.** No income promises, no guru talk.
