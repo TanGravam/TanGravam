@@ -1,11 +1,10 @@
 # Tan Gravam
 
-**Your best work is happening backstage. I build tools and write about bringing it out.**
+**18 years inside enterprise systems. 8 products shipped solo. 12 free tools. All built in public, next to a full-time job.**
 
-I spent 18 years inside enterprise systems. Most of what experienced people know
-never leaves their heads, their spreadsheets or their team chat. I turn that kind
-of hidden work into software and public writing, and I show how others can do the
-same with AI.
+Most of what experienced people know never leaves their heads, their
+spreadsheets or their team chat. I turn that kind of hidden work into software
+and public writing, and I show how others can do the same with AI.
 
 ## What I build
 
