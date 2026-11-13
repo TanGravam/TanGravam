@@ -1,10 +1,13 @@
 # Tan Gravam
 
-**18 years inside enterprise systems. 8 products shipped solo. 12 free tools. All built in public, next to a full-time job.**
+**If you're good at your job and nobody sees it, this is for you.**
 
-Most of what experienced people know never leaves their heads, their
-spreadsheets or their team chat. I turn that kind of hidden work into software
-and public writing, and I show how others can do the same with AI.
+I show experienced specialists how to make their work visible and turn what they
+know into something that lasts: a clear message, a public body of work, a small
+product. One concrete technique at a time, with the exact AI prompt I used.
+
+Why listen to me: 18 years inside enterprise systems, 8 products shipped solo,
+12 free tools. All built in public, next to a full-time job.
 
 ## What I build
 
