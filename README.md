@@ -23,8 +23,6 @@ Small, focused products that start from real operational problems.
 
 Everything else: [gravam.com/products](https://gravam.com/products)
 
-Stack: Nuxt, Supabase, Claude Code.
-
 ## How I work
 
 AI makes building software faster. It doesn't make the product decisions easier.
