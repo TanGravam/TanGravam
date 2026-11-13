@@ -14,7 +14,8 @@ shipped solo and a dozen free tools. All built next to a full-time job.
 
 ## A few things I've built
 
-Small, focused products that start from real operational problems.
+Small, focused products. Each one started as something I knew from the job
+and turned into software. I write about how, including what went wrong.
 
 - [BankLint](https://banklint.com): checks ISO 20022 payment files before the bank rejects them
 - [Delivery Sheet](https://deliverysheet.com): demand intake and delivery decisions for engineering leaders
