@@ -1,36 +1,40 @@
 # Tan Gravam
 
-**Enterprise Technology Builder** working at the intersection of AI, systems architecture, and real-world workflows.
+**Your best work is happening backstage. I build tools and write about bringing it out.**
 
-I've spent 18 years working with complex enterprise technology, particularly across finance, treasury, business processes, and large-scale systems.
+I spent 18 years inside enterprise systems. Most of what experienced people know
+never leaves their heads, their spreadsheets or their team chat. I turn that kind
+of hidden work into software and public writing, and I show how others can do the
+same with AI.
 
-Today, I explore how AI changes the way we design systems and workflows — while building practical software to test ideas in the real world.
+## What I build
 
-## What I care about
+Small, focused products that start from real operational problems. Solo, in
+public, next to a full-time job.
 
-- 🤖 Enterprise AI and AI-native workflows
-- 🏗️ Systems architecture and complex organisations
-- 🔄 Workflow and process design
-- 🧠 Technology leadership and decision-making
-- 🛠️ Building practical software
-- 🧪 Testing ideas through real-world experimentation
+- [BankLint](https://banklint.com): checks ISO 20022 payment files before the bank rejects them
+- [Delivery Sheet](https://deliverysheet.com): demand intake and delivery decisions for engineering leaders
+- [Tractionim](https://tractionim.com): turns what an expert knows into one clear brand model
+- [5dayemail](https://5dayemail.com): publish a short email course
+- Free tools, no signup: [gravam.com/tools](https://gravam.com/tools)
+
+Stack: Nuxt, Supabase, Claude Code.
 
 ## How I work
 
-I like turning ambiguous problems into clear systems, decisions, and working software.
+AI makes building software faster. It doesn't make the product decisions easier.
 
-AI makes building software faster.
+The interesting work is deciding what should exist, how it should work, where AI
+belongs, and what should stay deterministic or human-controlled.
 
-It doesn't make the underlying product decisions easier.
+## What I publish
 
-The interesting work is figuring out what should exist, how it should work, where AI belongs, and what should remain deterministic or human-controlled.
-
-## Writing
-
-I write about enterprise AI, architecture, workflows, technology leadership, and building software.
+Short videos and posts on making expertise visible, turning experience into
+products, and building in public.
 
 → [gravam.com](https://gravam.com)
 
----
+## About the face
 
-Building in public. Exploring what happens when we redesign.
+Tan Gravam is a pen name and the face is an AI-generated character. The
+experience, the code and the numbers are real.
