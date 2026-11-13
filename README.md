@@ -33,8 +33,3 @@ Short videos and posts on making expertise visible, turning experience into
 products, and building in public.
 
 → [gravam.com](https://gravam.com)
-
-## About the face
-
-Tan Gravam is a pen name and the face is an AI-generated character. The
-experience, the code and the numbers are real.
