@@ -46,8 +46,6 @@ Short videos and posts, one step a day:
 [LinkedIn](https://www.linkedin.com/in/tangravam/) ·
 [gravam.com](https://gravam.com)
 
-## About the face
-
 ---
 
 You don't need a new career. You need the next step. Take one today.
