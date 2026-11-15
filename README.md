@@ -36,6 +36,13 @@ The real work is deciding what should exist, where AI belongs, and what should
 stay deterministic or in human hands. That part comes from experience, and it's
 the part I share.
 
+## Why listen to me:
+
+- I'm where you are. I have a full-time job too, and I ask myself the same questions most nights. I'm just a few steps ahead.
+- You already did the hard part. You know your job. Nothing about you needs fixing.
+- I do it before I say it. 8+ products and a dozen free tools, built next to that job and open for anyone to try.
+- One step you can take today. No hype, no income promises, and I tell you what didn't work.
+
 ## Follow
 
 Short videos and posts, one step a day:
@@ -45,13 +52,6 @@ Short videos and posts, one step a day:
 [X](https://x.com/TanGravam) ·
 [LinkedIn](https://www.linkedin.com/in/tangravam/) ·
 [gravam.com](https://gravam.com)
-
-## Why listen to me:
-
-- I'm where you are. I have a full-time job too, and I ask myself the same questions most nights. I'm just a few steps ahead.
-- You already did the hard part. You know your job. Nothing about you needs fixing.
-- I do it before I say it. 8+ products and a dozen free tools, built next to that job and open for anyone to try.
-- One step you can take today. No hype, no income promises, and I tell you what didn't work.
 
 ---
 
