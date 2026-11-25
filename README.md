@@ -1,51 +1,12 @@
 # Tan Gravam
 
-**Not bad at your job. Now what?**
+### Your job is full of busywork. I kill one piece of it with AI, every day.
 
-You do good work, and something still feels off. Maybe AI is changing the job
-under you. Maybe you've outgrown your role. Maybe you keep thinking about
-building something of your own.
-
-I had the same questions, so I started answering them in public: one step
-every day toward a way up or a way out, with AI.
-
-## What you get if you follow along
-
-- **Stay valuable.** What AI really changes in your work, and what to learn next.
-- **Move up.** How to be seen, heard and taken seriously, one small step at a time.
-- **Build your own.** How I turn what I know into products next to a full-time job: what I shipped, what I cut, what failed.
-- **No hype.** No income promises, no guru talk. Every step comes with the AI setup behind it, so you can repeat it.
-
-## Proof: built next to a full-time job
-
-Nearly two decades inside enterprise systems, 8+ products shipped solo and a
-dozen free tools. Each one started as a problem I ran into myself.
-
-- [BankLint](https://banklint.com): checks ISO 20022 payment files before the bank rejects them
-- [Delivery Sheet](https://deliverysheet.com): demand intake and delivery decisions for engineering leaders
-- [Tractionim](https://tractionim.com): turns what an expert knows into one clear brand model
-- Free tools, no signup: [gravam.com/tools](https://gravam.com/tools)
-
-Everything else: [gravam.com/products](https://gravam.com/products)
-
-## How I build
-
-AI makes building faster. It doesn't make the decisions easier.
-
-The real work is deciding what should exist, where AI belongs, and what should
-stay deterministic or in human hands. That part comes from experience, and it's
-the part I share.
-
-## Why listen to me:
-
-- I'm where you are. I have a full-time job too, and I ask myself the same questions most nights. I'm just a few steps ahead.
-- You already did the hard part. You know your job. Nothing about you needs fixing.
-- I do it before I say it. 8+ products and a dozen free tools, built next to that job and open for anyone to try.
-- One step you can take today. No hype, no income promises, and I tell you what didn't work.
+One task people still do by hand. One short demo of AI doing it. The exact steps, so you can do it yourself.
 
 ## Follow
 
-Short videos and posts, one step a day:
+**Daily demos, Tools and write-ups:**
 [YouTube](https://www.youtube.com/@tangravam) ·
 [Instagram](https://www.instagram.com/tangravam/) ·
 [TikTok](https://www.tiktok.com/@tangravam) ·
