@@ -13,7 +13,3 @@ One task people still do by hand. One short demo of AI doing it. The exact steps
 [X](https://x.com/TanGravam) ·
 [LinkedIn](https://www.linkedin.com/in/tangravam/) ·
 [gravam.com](https://gravam.com)
-
----
-
-You don't need a new career. You need the next step. Take one today.
